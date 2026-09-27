@@ -1,0 +1,4 @@
+
+Search Rules:
+1. Search by title: Enter full or partial title keyword.
+2. Search by author: Enter author last name.
