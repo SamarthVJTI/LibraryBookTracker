@@ -1,2 +1,3 @@
 Monthly Issue Report - January
 Total books issued: 42
+Total books returned: 38
